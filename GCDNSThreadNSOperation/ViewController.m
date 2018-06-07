@@ -372,6 +372,11 @@
 {
     
 }
+- (void)masterTest
+{
+    NSLog(@"git测试2");
+
+}
 - (void)runOnMainThread
 {
     NSLog(@"回到主线程");
