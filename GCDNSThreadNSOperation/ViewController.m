@@ -368,6 +368,10 @@
     NSLog(@"git测试1");
     
 }
+- (void)newFunc
+{
+    
+}
 - (void)runOnMainThread
 {
     NSLog(@"回到主线程");
