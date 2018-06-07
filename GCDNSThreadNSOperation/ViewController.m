@@ -358,25 +358,6 @@
     }
 }
 
-- (void)textTest
-{
-    NSLog(@"git测试");
-
-}
-- (void)textTest1
-{
-    NSLog(@"git测试1");
-    
-}
-- (void)newFunc
-{
-    
-}
-- (void)masterTest
-{
-    NSLog(@"git测试2");
-
-}
 - (void)runOnMainThread
 {
     NSLog(@"回到主线程");
