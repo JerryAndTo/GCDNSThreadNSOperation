@@ -357,6 +357,13 @@
         }
     }
 }
+
+- (void)textTest
+{
+    NSLog(@"git测试");
+
+}
+
 - (void)runOnMainThread
 {
     NSLog(@"回到主线程");
